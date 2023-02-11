@@ -11,6 +11,8 @@
 ## Business Task
 We want to gain valuable insights into the performance of different countries and athletes in the Olympics, and understand trends and patterns in medal distribution by sport and gender. 
 
+Dataset source link: [120 years of Olympic history: athletes and results (Kaggle)](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+
 ## Entity Relationship Diagram
 
 ![image](https://user-images.githubusercontent.com/112760562/218281466-2ef642a3-852b-4d59-9eb0-000aeb39c3e2.png)
