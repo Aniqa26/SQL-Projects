@@ -5,6 +5,8 @@
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Case Study Questions](#case-study-questions)
 - [Solution](Solution.md)
+  - [A. Data Cleansing Steps](Solution.md#a-data-cleansing-steps)
+  - [B. Data Exploration](Solution.md#b-data-exploration)
 
 ***
 
