@@ -9,7 +9,7 @@ This repository contains the solution for the case studies on data sets.
 
 ## 120 Years of Olympic History
 
-View the case study [here](120%20Years%20of%20Olympic%20History/README.md) and my **solution** [here](120%20Years%20of%20Olympic%20History/Solution.md).
+View the case study [here](120%20Years%20of%20Olympic%20History) and my **solution** [here](120%20Years%20of%20Olympic%20History/Solution.md).
 
 ### Business Task
 The Olympics comprises all the Games from Athens 1986 to Rio 2016. The Olympics is more than just a quadrennial multi-sport world championship. It is a lense through which to understand global history, including shifting geopolitical power dynamics, women’s empowerment, and the evolving values of society.
